@@ -1,0 +1,831 @@
+Entry,Class,Type,Habit,Plants,Harvest,Date,Days after planting,Marketable fruit,Marketable lb,Cull fruit,Cull lb
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,1.35,3.0,2.5
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,0.9,6.0,3.9
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.15,2.0,1.5
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,1.0,0.26,7.0,2.08
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,3.0,1.5
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.55
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,2.0,1.35
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,15.0,8.1
+Cherokee Purple,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,28.0,14.1
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 1,2026-07-14,61,,,,
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 2,2026-07-22,69,0.0,0.0,10.0,6.5
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 3,2026-07-29,76,10.0,6.4,6.0,2.65
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 4,2026-08-07,85,17.0,5.52,25.0,8.5
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 5,2026-08-17,95,0.0,0.0,1.0,0.95
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 7,2026-09-01,110,1.0,0.55,0.0,0.0
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 8,2026-09-08,117,2.0,0.85,1.0,0.65
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 9,2026-09-16,125,4.0,1.85,7.0,3.85
+Mountain Fresh Plus,Slicer and cocktail,,,,Harvest 10,2026-09-25,134,28.0,14.1,6.0,4.1
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,6.0,4.65,1.0,0.7
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,13.0,9.7,4.0,2.55
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,30.0,8.56,22.0,5.72
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,1.0,0.45,0.0,0.0
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.55
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,3.0,1.35,5.0,2.0
+Mountain Gem,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,15.0,7.7,11.0,5.0
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,5.0,5.5,0.0,0.0
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,0.8,5.0,4.35
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,11.0,6.85,3.0,2.2
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,10.0,2.52,8.0,2.5
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,1.05,7.0,2.25
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,0.85,2.0,0.45
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,2.0,1.0,3.0,0.7
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,5.0,2.95,10.0,2.5
+Mountain Girl,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,8.0,3.1,13.0,2.85
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.6,5.0,2.9
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.9,5.0,3.5
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,14.0,9.6,4.0,2.85
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,18.0,3.22,5.0,1.46
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,3.1,2.0,1.35
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,3.0,2.05,0.0,0.0
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,1.2,0.0,0.0
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,6.0,3.35,4.0,1.7
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,18.0,8.2,9.0,3.75
+Mountain Heritage,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,5.0,2.2,4.0,1.3
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 1,2026-07-14,61,13.0,4.5,1.0,0.2
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 2,2026-07-22,69,14.0,1.75,42.0,10.85
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 3,2026-07-29,76,56.0,4.75,4.0,0.2
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 4,2026-08-07,85,,3.66,,1.92
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 5,2026-08-17,95,,8.7,,0.65
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 6,2026-08-24,102,,0.3,,3.9
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 7,2026-09-01,110,,7.85,,55.0
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 8,2026-09-08,117,,3.15,,0.8
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 9,2026-09-16,125,,2.05,,0.55
+Mountain Magic,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 10,2026-09-25,134,,5.8,,0.7
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,3.0,3.45
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,15.0,11.25
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,1.0,0.6,6.0,4.9
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,7.0,2.8,10.0,4.16
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.7,1.0,0.85
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,1.9,6.0,5.15
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,4.0,2.45,3.0,1.35
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,4.0,2.25,16.0,6.6
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,3.0,1.65,19.0,8.7
+NC 23706G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.5,15.0,6.1
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,3.0,3.8
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.3,5.0,6.2
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,10.0,3.94,8.0,3.84
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,3.0,2.4,4.0,5.2
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,3.15
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,4.0,1.8
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,1.0,0.5,6.0,3.75
+NC 23926G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,2.55,16.0,10.0
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.5,0.0,0.0
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,0.6,11.0,5.6
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.05,2.0,1.1
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,4.24,17.0,3.44
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,8.0,3.95,3.0,0.65
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.95,1.0,0.4
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,2.0,0.4
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,12.0,3.85,4.0,1.2
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,20.0,7.45,23.0,7.25
+NC 24271G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,3.0,1.0,3.0,0.75
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,9.0,5.35,0.0,0.0
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,6.0,2.7,13.0,6.0
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,15.0,6.8,1.0,0.7
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,17.0,3.88,11.0,1.8
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,2.5,2.0,0.65
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,5.0,1.4,7.0,1.5
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,12.0,3.55,16.0,4.75
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,17.0,3.55
+NC 25202G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.35,13.0,1.8
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,3.0,2.1
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,1.0,0.85,9.0,6.15
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.35,11.0,9.6
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,12.0,4.52,1.0,0.22
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.55,3.0,2.15
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,1.5,0.0,0.0
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,0.8,0.0,0.0
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,6.0,3.0,5.0,1.85
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,28.0,12.1,19.0,7.05
+NC 25203G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.75,10.0,3.45
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,4.0,6.6,4.0,3.15
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,4.0,2.2,12.0,6.5
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,4.0,2.1,2.0,1.15
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,4.94,11.0,2.84
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,2.0,1.4,8.0,4.65
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.55
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.55,3.0,0.6
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,1.8,4.0,0.6
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,3.0,1.1
+NC 25205G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,3.0,1.1,30.0,11.55
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,1.0,1.1
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.6,12.0,8.65
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,5.0,4.25,4.0,1.96
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,8.0,1.9,13.0,2.9
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.55,1.0,0.2
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,3.0,0.95,0.0,0.0
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,6.0,2.65,0.0,0.0
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,1.0,0.45,6.0,1.75
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,20.0,7.75,20.0,5.75
+NC 25207G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,3.0,0.85,6.0,1.55
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,2.05,1.0,1.3
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,5.0,3.0,12.0,7.6
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,9.0,4.1,5.0,2.55
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,18.0,4.12,20.0,4.92
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,2.5,5.0,2.3
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,1.55,10.0,3.45
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,5.0,0.25,13.0,1.6
+NC 25208G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,6.0,2.0,11.0,3.55
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,2.55,3.0,2.15
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.1,5.0,3.15
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,19.0,12.9,2.0,1.5
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,22.0,6.38,9.0,2.8
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,3.35,2.0,1.7
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.5,0.0,0.0
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,1.15,0.0,0.0
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,12.0,4.65,1.0,0.2
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,17.0,7.45,18.0,6.9
+NC 25209G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,8.0,3.05,15.0,5.0
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.85,1.0,1.1
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,1.0,0.85,10.0,6.7
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,5.0,5.25,1.0,0.9
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,14.0,4.82,11.0,3.06
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,4.3,2.0,1.65
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,1.35,0.0,0.0
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,1.15,0.0,0.0
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,2.0,1.3
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,7.0,3.75
+NC 25210G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,1.0,0.6,9.0,3.3
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,2.15,1.0,0.75
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,5.0,4.0,8.0,6.45
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,8.0,6.7,3.0,2.5
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,27.0,8.64,24.0,9.34
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.9,1.0,0.4
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,1.6,0.0,0.0
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.5,0.0,0.0
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,2.0,1.15,1.0,0.35
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,3.0,1.7,10.0,4.75
+NC 25212G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,5.0,2.2,13.0,4.9
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.75,2.0,1.5
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,9.0,5.45,6.0,4.05
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,14.0,7.8,1.0,0.7
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,8.0,2.12,7.0,1.64
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.55,3.0,0.75
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.5,4.0,1.05
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,6.0,2.75,9.0,2.85
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,12.0,5.25,9.0,3.1
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,5.0,1.95,23.0,9.45
+NC 25217G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,16.0,2.85
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,3.0,2.05
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,5.0,3.0,4.0,1.65
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,19.0,10.3,6.0,2.7
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,14.0,3.26,2.0,0.28
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,3.0,1.45,3.0,1.05
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,12.0,3.5,3.0,0.95
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,7.0,2.4,7.0,2.1
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,4.0,1.75,4.0,1.15
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,7.0,2.7,9.0,2.45
+NC 25218G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,5.0,1.3,8.0,2.2
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,1.7,4.0,2.45
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,3.0,2.35,8.0,4.85
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,9.0,7.2,5.0,4.05
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,5.34,8.0,2.08
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,3.65,3.0,2.85
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.6,2.0,0.7
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.4,1.0,0.4
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,6.0,2.25,7.0,3.7
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,10.0,4.9,25.0,10.2
+NC 25230G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,3.0,0.95,16.0,5.7
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,5.0,4.2,1.0,0.65
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.35,5.0,4.05
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.3,4.0,2.5
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,21.0,6.36,13.0,3.98
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,2.0,0.8,5.0,2.4
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.4,5.0,2.5
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,1.45,9.0,4.25
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,6.0,2.75,28.0,10.2
+NC 25231G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,10.0,2.7
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,2.0,2.0,1.45
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,5.0,3.2
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,6.0,4.0,3.0,2.6
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,27.0,8.9,13.0,4.52
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.6,7.0,4.85
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,0.45
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,3.0,0.85
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,1.95,8.0,3.4
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,20.0,9.15,16.0,5.55
+NC 25240G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,8.0,1.9,11.0,3.6
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,1.3,1.0,0.5
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,4.0,2.5,6.0,3.65
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,12.0,9.2,2.0,1.15
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,0.0,0.0,17.0,9.8
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,8.0,5.2,5.0,1.35
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,5.0,2.1,3.0,0.85
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,1.1,3.0,1.0
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,1.1,7.0,3.05
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,8.0,1.15,40.0,13.8
+NC 25241G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.7,14.0,3.45
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,1.25,2.0,0.7
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,13.0,5.7,6.0,3.05
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,24.0,11.04,2.0,1.1
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,6.0,0.86,4.0,0.6
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,13.0,5.55,1.0,0.2
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,13.0,5.56,0.0,0.0
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,6.0,2.85,2.0,1.55
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,7.0,3.2,11.0,4.15
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,25.0,8.1,13.0,3.4
+NC 252G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,5.0,1.95,11.0,4.0
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,1.0,0.65,1.0,0.7
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,4.0,2.4,10.0,5.8
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,22.0,10.9,5.0,2.95
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,33.0,7.92,23.0,4.34
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,7.0,3.1,1.0,0.65
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,0.45
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,2.0,0.85,0.0,0.0
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,2.0,1.15,4.0,1.55
+NC 25304G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,6.0,2.95,28.0,10.6
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,1.0,0.65,0.0,0.0
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,15.0,10.25,8.0,5.15
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,10.0,5.45,4.0,2.65
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,17.0,4.02,25.0,5.34
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,3.0,1.05
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,5.0,2.45,0.0,0.0
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,3.0,1.5,1.0,0.65
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,7.0,2.9
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,1.0,0.4,11.0,4.75
+NC 25306G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,11.0,5.25,17.0,7.2
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,3.0,2.5,0.0,0.0
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,6.0,3.55,3.0,2.15
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,12.0,7.4,4.0,2.5
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,13.0,3.86,17.0,3.84
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,7.0,3.95,5.0,3.15
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,1.0,0.1
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,2.0,0.65
+NC 25311G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,5.0,1.75,29.0,9.9
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,13.0,6.7
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,2.0,1.15,4.0,3.65
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,7.0,2.14,18.0,4.54
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,4.0,2.55,6.0,2.6
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.85
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,3.0,1.3
+NC 25313G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,5.0,2.25,18.0,8.25
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,0.0,4.75,7.0,4.0
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,8.0,6.9,13.0,11.45
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,3.0,0.96,11.0,4.1
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,2.0,1.45,4.0,3.75
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.75
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,9.0,5.05
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,12.0,7.3
+NC 25315G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,4.0,1.9,11.0,6.55
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,1.0,0.9,3.0,2.1
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,16.0,8.35,0.0,0.0
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,23.0,10.6,7.0,3.85
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,16.0,3.66,25.0,5.36
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,0.0,,3.0,1.45
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.75
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,5.0,1.7
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,3.0,1.4,11.0,3.55
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,1.0,0.45,15.0,5.65
+NC 25317G,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,7.0,2.45
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.7,6.0,2.4
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,9.0,5.6,7.0,4.1
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,13.0,6.85,3.0,1.7
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,7.0,1.88,8.0,1.74
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.4,3.0,0.85
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,0.75,0.0,0.0
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,14.0,5.6,7.0,1.85
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,17.0,7.3,18.0,5.4
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,5.0,1.7,17.0,5.1
+NC 255G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,1.05,13.0,2.4
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.65,7.0,5.85
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,11.0,7.4,0.0,0.0
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,20.0,5.7,13.0,3.6
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,3.4,2.0,1.35
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,9.0,4.55,1.0,0.4
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,1.5,1.0,0.65
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,4.0,1.95,3.0,1.6
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,8.0,3.35,10.0,3.25
+NC 261G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,1.2,22.0,5.45
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,4.0,3.2,0.0,0.0
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,5.0,4.0,5.0,4.15
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,28.0,15.8,4.0,2.35
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,6.0,1.54,3.0,0.88
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,4.0,2.35,0.0,0.0
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,1.0,5.0,1.8
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,2.65,5.0,2.0
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,4.0,1.4,9.0,2.75
+NC 262G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,10.0,3.55,26.0,8.05
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,3.1,2.0,1.4
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,3.0,1.85,14.0,12.1
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,9.0,5.65,6.0,3.95
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,0.0,0.0,8.0,2.2
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.45,2.0,1.0
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,1.0,1.0,0.3
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,6.0,2.85,2.0,0.55
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,4.0,2.4,6.0,3.0
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,9.0,3.15
+NC 263G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,1.0,0.35,12.0,4.45
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.2,5.0,7.5
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,12.0,7.55,3.0,1.65
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,12.0,3.38,4.0,1.12
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,4.0,2.1,1.0,0.55
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,0.95,2.0,0.8
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,1.4,1.0,0.55
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,2.4,3.0,0.85
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,6.0,2.45,11.0,3.35
+NC 264G,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,6.0,2.55,5.0,1.4
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,22.0,0.76,34.0,1.14
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,94.0,2.34,26.0,0.62
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,76.0,1.86,16.0,0.35
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,3.46,,0.68
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.88,,0.58
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,5.51,,0.45
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.63,,0.49
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,2.46,,0.12
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.65,,1.68
+UKYT-25-001,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.72,,2.63
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,22.0,1.33,1.0,0.06
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,32.0,4.87,40.0,2.68
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,92.0,3.66,16.0,0.62
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,3.61,,0.92
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.03,,0.94
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,3.33,,1.13
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,2.15,,0.94
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.95,,0.24
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,0.79,,1.63
+UKYT-25-002,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.14,,1.49
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,31.0,1.16,11.0,0.39
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,62.0,2.65,24.0,0.71
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,60.0,1.65,7.0,0.17
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,6.23,,0.62
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,2.86,,0.74
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,5.36,,0.41
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.74,,0.59
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,2.08,,0.31
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,2.83,,1.32
+UKYT-25-003,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,2.11,,0.56
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,23.0,1.34,7.0,0.4
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,45.0,2.5,33.0,1.72
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,114.0,4.36,9.0,0.32
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,6.09,,0.38
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.13,,0.15
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,5.31,,0.37
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.39,,0.49
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.5,,0.11
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,1.84,,1.83
+UKYT-25-004,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.63,,1.26
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,7.0,0.42,6.0,0.37
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,36.0,1.73,35.0,1.64
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,55.0,2.05,22.0,0.67
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.21,,0.89
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,4.84,,0.8
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,3.51,,0.09
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,6.06,,0.29
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,2.59,,0.13
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.71,,0.16
+UKYT-25-005,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,6.64,,0.25
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,26.0,1.36,0.0,0.0
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,52.0,2.78,29.0,1.37
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,140.0,5.88,28.0,1.03
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.13,,0.58
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.55,,0.53
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,2.54,,0.3
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.92,,0.12
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,1.01,,0.31
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.69,,1.89
+UKYT-25-006,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,2.78,,0.83
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,36.0,2.35,0.0,0.0
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,81.0,5.13,28.0,1.56
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,115.0,5.08,5.0,0.19
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,3.9,,0.08
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.35,,0.23
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,5.18,,0.38
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.52,,0.81
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,1.54,,0.57
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,2.04,,2.42
+UKYT-25-007,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,3.19,,0.9
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,18.0,1.25,5.0,0.32
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,56.0,3.48,29.0,1.81
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,47.0,2.1,5.0,0.23
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.44,,1.19
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,0.75,,1.14
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,1.85,,0.71
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,2.88,,2.33
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.77,,0.29
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,2.08,,2.45
+UKYT-25-008,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,0.98,,1.71
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,24.0,1.45,3.0,0.11
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,90.0,4.9,25.0,1.24
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,49.0,2.03,11.0,0.48
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.59,,0.61
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.44,,0.37
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,4.35,,1.26
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,1.03,,0.69
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.0,,0.0
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.14,,2.14
+UKYT-25-009,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.27,,0.95
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,29.0,1.63,8.0,0.4
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,29.0,1.48,45.0,2.44
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,58.0,2.96,13.0,0.35
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,5.21,,1.34
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.1,,1.14
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,0.69,,0.69
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,2.0,,1.16
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.58,,0.78
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,1.2,,1.64
+UKYT-25-010,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,2.17,,2.1
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,40.0,2.13,7.0,0.27
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,49.0,2.65,34.0,1.34
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,51.0,2.63,20.0,0.54
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.84,,1.71
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.16,,1.01
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,1.18,,0.68
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,1.22,,1.34
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.62,,0.18
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,1.74,,1.33
+UKYT-25-011,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,2.41,,2.41
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,12.0,0.79,0.0,0.0
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,104.0,5.36,9.0,0.44
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,110.0,3.58,3.0,0.09
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,4.86,,0.01
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,8.55,,0.26
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,5.13,,0.16
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,1.69,,1.71
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.91,,0.2
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,2.62,,2.51
+UKYT-25-012,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,3.35,,2.18
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,30.0,1.63,7.0,0.31
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,127.0,6.11,23.0,0.98
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,119.0,3.61,8.0,0.27
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,5.62,,0.18
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,0.98,,0.24
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,6.13,,0.3
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.71,,0.38
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.66,,0.12
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.63,,3.44
+UKYT-25-013,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.76,,0.8
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,40.0,2.24,7.0,0.31
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,176.0,6.48,9.0,0.34
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,78.0,2.86,9.0,0.33
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,6.89,,1.78
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.56,,0.49
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,4.16,,2.31
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,2.78,,1.1
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,1.36,,0.5
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,3.33,,2.93
+UKYT-25-014,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,1.6,,1.54
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 2,2026-07-22,69,2.0,1.95,8.0,5.45
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 3,2026-07-29,76,4.0,1.65,3.0,2.2
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 4,2026-08-07,85,1.0,0.61,1.0,0.48
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,6.0,1.95
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.35
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 8,2026-09-08,117,3.0,1.35,1.0,0.9
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 9,2026-09-16,125,5.0,3.5,3.0,1.8
+UKYT-25-015,Slicer and cocktail,medium size fruit,Determinate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,2.0,0.35
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.03,7.0,0.22
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,24.0,0.69,9.0,0.31
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,17.0,0.34,3.0,0.04
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,0.76,,0.17
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,0.16,,0.03
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,0.31,,0.31
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,1.13,,0.16
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,0.21,,0.04
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,0.89,,0.64
+UKYT-25-016,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,4.61,,0.94
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,18.0,1.28,7.0,0.39
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,77.0,5.36,20.0,1.09
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,26.0,0.89,0.0,0.0
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,7.29,,0.81
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,3.0,,0.85
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,2.05,,1.61
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,3.31,,0.62
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,2.08,,0.18
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,4.28,,2.09
+UKYT-25-017,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,3.93,,1.69
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,6.0,1.4
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 3,2026-07-29,76,2.0,0.55,3.0,0.65
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 4,2026-08-07,85,2.0,0.24,57.0,4.18
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,12.0,1.95
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 6,2026-08-24,102,1.0,0.1,4.0,0.65
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.15
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,2.0,0.3
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,4.0,0.45
+UKYT-26-001,Slicer and cocktail,medium fruit size with blocky shape,Determinate,4.0,Harvest 10,2026-09-25,134,2.0,0.3,8.0,0.9
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 1,2026-07-14,61,39.0,1.95,11.0,0.55
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 2,2026-07-22,69,151.0,6.63,37.0,1.58
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 3,2026-07-29,76,108.0,3.41,7.0,2.12
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 4,2026-08-07,85,,1.54,,2.61
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 5,2026-08-17,95,,0.56,,0.26
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 6,2026-08-24,102,,1.19,,0.55
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 7,2026-09-01,110,,0.55,,1.01
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 8,2026-09-08,117,,0.89,,0.16
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 9,2026-09-16,125,,0.38,,0.28
+UKYT-26-006,Grape,grape tomato,Determinate,4.0,Harvest 10,2026-09-25,134,,1.86,,0.26
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,3.0,3.0
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,1.35,12.0,11.2
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,1.0,0.65,5.0,3.9
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,6.0,2.16,6.0,2.08
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.85,5.0,3.1
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.85,0.0,0.0
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.5
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,3.05,7.0,4.0
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,2.0,0.9
+UKYT-26-011,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.35,5.0,1.75
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,3.35,6.0,4.4
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,8.0,8.15
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,1.5,4.0,3.35
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,8.0,2.44,8.0,2.76
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,2.0,1.75,3.0,2.35
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.7,1.0,0.7
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,1.0,0.15,2.0,1.25
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,3.0,1.55,0.0,0.0
+UKYT-26-012,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,2.4,2.0,0.8
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,1.05,0.0,0.0
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,3.0,2.4,7.0,6.25
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,1.0,0.65,2.0,1.3
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,1.0,0.38,9.0,2.58
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,3.9,4.0,1.85
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,12.0,,0.0,0.0
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,0.75,1.0,0.5
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,1.85,2.0,0.9
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,17.0,6.85,9.0,3.6
+UKYT-26-013,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,10.0,3.75,7.0,1.8
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,5.0,4.7,0.0,0.0
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,8.0,3.2,12.0,5.9
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,3.0,1.25,5.0,2.05
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,17.0,3.16,7.0,1.42
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,2.0,1.05,1.0,0.55
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.65
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,4.0,1.55
+UKYT-26-014,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,1.0,0.5
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 1,2026-07-14,61,24.0,1.89,1.0,0.08
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 2,2026-07-22,69,61.0,4.74,14.0,0.81
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 3,2026-07-29,76,58.0,2.83,5.0,0.22
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 4,2026-08-07,85,,5.75,,0.48
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 5,2026-08-17,95,,1.11,,0.89
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 6,2026-08-24,102,,4.25,,2.78
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 7,2026-09-01,110,,1.81,,1.12
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 8,2026-09-08,117,,1.51,,0.41
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 9,2026-09-16,125,,1.07,,0.42
+UKYT-26-015,Grape,grape tomato,Indeterminate,4.0,Harvest 10,2026-09-25,134,,3.21,,1.0
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,6.0,5.15
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,5.0,2.65,12.0,8.95
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,13.0,5.0,13.0,4.62
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,5.0,4.35
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,1.7
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.55,2.0,0.8
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,2.0,1.25
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,1.0,0.5,5.0,2.25
+UKYT-26-016,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,1.0,0.55,19.0,10.6
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,,,,
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,0.0,0.0,13.0,9.3
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,0.0,0.0,12.0,3.72
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,1.0,0.6,2.0,1.5
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,1.95
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,9.0,3.65
+UKYT-26-017,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,17.0,12.2
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,6.0,6.45
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,2.0,1.15,0.0,0.0
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,2.0,0.62,16.0,3.64
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,2.0,1.25,9.0,2.8
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,1.0,0.25,5.0,2.0
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,2.0,0.9
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,5.0,1.9
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,4.0,1.45,3.0,0.9
+UKYT-26-018,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,4.0,1.3,17.0,5.4
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,1.0,1.2
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 3,2026-07-29,76,2.0,1.0,4.0,3.5
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 4,2026-08-07,85,0.0,0.0,38.0,9.52
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 5,2026-08-17,95,3.0,1.8,11.0,5.75
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,8.0,4.45
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 7,2026-09-01,110,1.0,0.55,0.0,0.0
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,1.0,0.75
+UKYT-26-019,Slicer and cocktail,large tomatoes,Determinate,4.0,Harvest 10,2026-09-25,134,1.0,0.45,11.0,5.95
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,1.0,1.05,7.0,5.5
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,3.0,1.65,2.0,1.85
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,18.0,6.48,12.0,4.12
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,5.0,2.8
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.15
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,0.0,0.0
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,4.0,2.85,4.0,1.45
+UKYT-26-020,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,3.0,0.85
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,2.0,1.4
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,2.0,0.85,8.0,6.9
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,5.0,4.85,1.0,1.0
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,14.0,3.75,13.0,4.66
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,2.0,1.45,3.0,2.25
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,1.1
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,0.0,0.0
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,2.0,1.55
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,2.0,1.55,4.0,1.5
+UKYT-26-021,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,6.0,2.05
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,8.0,5.45
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,4.0,2.75,2.0,1.2
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,1.0,0.2,2.0,0.52
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,0.65,3.0,1.55
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,4.0,1.55
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.45
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,7.0,2.85,3.0,1.45
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,8.0,3.1,12.0,4.0
+UKYT-26-022,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,8.0,3.0
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.8,1.0,1.25
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,6.0,4.15,10.0,7.65
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,9.0,5.65,2.0,1.4
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,24.0,6.8,7.0,1.75
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,5.0,3.25,2.0,1.1
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,0.0,0.0
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,0.7,0.0,0.0
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,5.0,1.8,6.0,2.3
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,13.0,5.2,8.0,2.9
+UKYT-26-023,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,1.25,5.0,1.45
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,1.0,0.65,12.0,8.9
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,1.0,0.8,6.0,5.0
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,,,15.0,4.8
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,1.0,1.25,0.0,0.0
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.55
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.6
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,6.0,3.5
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,7.0,2.85
+UKYT-26-024,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,25.0,9.0
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,7.0,6.35
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,1.0,0.95,2.0,1.9
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,7.0,5.35,9.0,6.5
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,3.0,0.95,33.0,0.0
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.65
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,0.85,1.0,0.2
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,12.0,5.2,10.0,4.25
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,12.0,4.45,6.0,2.6
+UKYT-26-025,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,3.0,1.2
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,2.0,2.1
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,5.0,3.55
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,4.0,3.2,6.0,5.25
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,3.0,2.05,15.0,12.35
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,5.0,2.4
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,2.0,1.4
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.4
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,1.0,0.45,4.0,1.6
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,11.0,5.0
+UKYT-26-026,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,4.0,1.1
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,0.0,0.0,6.0,6.85
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,9.0,9.65,2.0,1.7
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,12.0,9.05,12.0,8.4
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,4.0,3.3,2.0,2.05
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.85,0.0,0.0
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,1.0,0.8,0.0,0.0
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,1.35,0.0,0.0
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,2.0,1.1,4.0,1.95
+UKYT-26-027,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,3.0,1.2,9.0,4.4
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,2.2,1.0,0.5
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,8.0,5.6,5.0,3.9
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,4.0,1.65,1.0,0.5
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,16.0,8.95,15.0,6.4
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,4.0,1.75,3.0,1.75
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,3.0,2.25,0.0,0.0
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,1.0,0.4
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,4.0,1.7,1.0,0.35
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,6.0,2.3,5.0,1.9
+UKYT-26-028,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,8.0,3.85,5.0,1.6
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.5,2.0,1.0
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 2,2026-07-22,69,9.0,3.15,5.0,2.45
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 3,2026-07-29,76,7.0,2.9,1.0,0.5
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 4,2026-08-07,85,42.0,14.75,16.0,5.4
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 5,2026-08-17,95,26.0,8.7,6.0,2.05
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 6,2026-08-24,102,11.0,2.8,0.0,0.0
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 7,2026-09-01,110,5.0,1.35,2.0,0.55
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 8,2026-09-08,117,8.0,2.25,25.0,5.3
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 9,2026-09-16,125,16.0,3.65,27.0,5.0
+UKYT-26-029,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 10,2026-09-25,134,7.0,1.7,9.0,1.35
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.3,7.0,1.7
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 2,2026-07-22,69,8.0,1.85,9.0,2.6
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 3,2026-07-29,76,21.0,4.35,1.0,0.2
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 4,2026-08-07,85,37.0,8.25,34.0,6.5
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 5,2026-08-17,95,27.0,4.9,3.0,0.55
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 6,2026-08-24,102,6.0,0.9,4.0,0.5
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,0.45,21.0,1.9
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,15.0,2.0
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 9,2026-09-16,125,3.0,0.5,24.0,2.55
+UKYT-26-030,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 10,2026-09-25,134,0.0,0.0,16.0,1.15
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,0.85,3.0,1.3
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 2,2026-07-22,69,5.0,2.1,11.0,4.75
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 3,2026-07-29,76,23.0,9.55,1.0,0.35
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,6.1,22.0,7.2
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 5,2026-08-17,95,13.0,5.1,5.0,1.55
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 6,2026-08-24,102,7.0,1.95,4.0,0.75
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 7,2026-09-01,110,7.0,1.95,5.0,1.05
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 8,2026-09-08,117,3.0,0.95,25.0,4.65
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 9,2026-09-16,125,1.0,0.1,13.0,2.65
+UKYT-26-031,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 10,2026-09-25,134,18.0,3.1,42.0,6.2
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,3.0,0.95
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,4.0,1.45,12.0,5.25
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,7.0,2.95,4.0,1.8
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,0.0,0.0,33.0,6.54
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,0.0,0.0,11.0,3.45
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,2.0,0.35,10.0,3.55
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,4.0,1.35,7.0,1.3
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,9.0,2.4,24.0,5.8
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,3.0,0.8,20.0,4.6
+UKYT-26-032,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,11.0,3.8,19.0,5.7
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 1,2026-07-14,61,3.0,1.45,0.0,0.0
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 2,2026-07-22,69,38.0,9.75,14.0,3.55
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 3,2026-07-29,76,19.0,4.9,3.0,1.1
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,2.04,17.0,2.06
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,1.9,8.0,2.55
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 6,2026-08-24,102,1.0,0.3,0.0,0.0
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 7,2026-09-01,110,8.0,2.3,5.0,1.25
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 8,2026-09-08,117,10.0,2.75,7.0,1.35
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 9,2026-09-16,125,8.0,1.7,11.0,1.8
+UKYT-26-033,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,0.65,15.0,3.5
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 1,2026-07-14,61,1.0,0.35,1.0,0.35
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 2,2026-07-22,69,13.0,4.2,14.0,4.35
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 3,2026-07-29,76,15.0,5.7,1.0,0.55
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 4,2026-08-07,85,7.0,1.06,12.0,1.84
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 5,2026-08-17,95,6.0,1.9,4.0,1.0
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,3.0,0.7
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 7,2026-09-01,110,10.0,2.55,10.0,1.95
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,13.0,2.35
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,7.0,1.0
+UKYT-26-034,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 10,2026-09-25,134,5.0,0.5,3.0,0.35
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,9.0,2.65
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 2,2026-07-22,69,5.0,1.0,7.0,1.7
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 3,2026-07-29,76,14.0,2.8,13.0,2.7
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 4,2026-08-07,85,13.0,1.3,51.0,4.32
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 5,2026-08-17,95,18.0,3.4,12.0,2.55
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 6,2026-08-24,102,4.0,0.55,7.0,0.75
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 7,2026-09-01,110,0.0,0.0,15.0,2.0
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 8,2026-09-08,117,18.0,2.5,30.0,3.35
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,61.0,5.45
+UKYT-26-035,Slicer and cocktail,cocktail,Indeterminate,4.0,Harvest 10,2026-09-25,134,4.0,0.4,23.0,1.9
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,4.0,2.1,1.0,0.65
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,19.0,7.05,8.0,3.05
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,14.0,3.8,1.0,0.2
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,33.0,4.4,30.0,3.5
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,10.0,3.65,8.0,2.55
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,3.0,1.1,0.0,0.0
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,2.0,0.7,4.0,0.7
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,14.0,4.5,16.0,3.75
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,11.0,2.8,10.0,2.15
+UKYT-26-036,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,11.0,2.75,13.0,2.85
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 1,2026-07-14,61,2.0,0.5,1.0,0.1
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 2,2026-07-22,69,9.0,3.7,7.0,2.55
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 3,2026-07-29,76,15.0,6.0,3.0,0.55
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 4,2026-08-07,85,15.0,2.62,6.0,1.04
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 5,2026-08-17,95,15.0,6.05,2.0,0.6
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 6,2026-08-24,102,13.0,3.2,0.0,0.0
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 7,2026-09-01,110,8.0,2.0,3.0,0.6
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 8,2026-09-08,117,25.0,6.5,18.0,2.95
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 9,2026-09-16,125,10.0,1.7,14.0,2.45
+UKYT-26-037,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 10,2026-09-25,134,5.0,1.1,5.0,0.8
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 1,2026-07-14,61,,,,
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 2,2026-07-22,69,10.0,4.8,14.0,4.0
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 3,2026-07-29,76,2.0,0.95,6.0,2.05
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 4,2026-08-07,85,2.0,0.36,6.0,1.18
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 5,2026-08-17,95,3.0,1.4,9.0,2.4
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 6,2026-08-24,102,0.0,0.0,1.0,0.25
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,1.0,2.0,0.4
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 8,2026-09-08,117,4.0,1.3,4.0,1.0
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 9,2026-09-16,125,2.0,0.9,0.0,0.0
+UKYT-26-038,Slicer and cocktail,large tomatoes,Indeterminate,4.0,Harvest 10,2026-09-25,134,1.0,0.35,2.0,0.5
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 1,2026-07-14,61,0.0,0.0,2.0,0.95
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 2,2026-07-22,69,4.0,1.45,12.0,5.15
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 3,2026-07-29,76,7.0,2.95,4.0,1.8
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 4,2026-08-07,85,3.0,0.68,47.0,7.66
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 5,2026-08-17,95,3.0,1.45,24.0,8.45
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 6,2026-08-24,102,12.0,4.0,18.0,6.15
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 7,2026-09-01,110,3.0,1.0,6.0,2.5
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 8,2026-09-08,117,0.0,0.0,11.0,4.85
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 9,2026-09-16,125,0.0,0.0,29.0,9.35
+UKYT-26-039,Slicer and cocktail,medium size fruit,Indeterminate,4.0,Harvest 10,2026-09-25,134,2.0,0.35,22.0,4.5

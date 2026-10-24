@@ -1,0 +1,87 @@
+site,column,rows,missing
+High Tunnel,SN,214,0
+High Tunnel,Genotype_raw,214,0
+High Tunnel,Genotypes,214,0
+High Tunnel,Location,214,0
+High Tunnel,Date of harvest,214,0
+High Tunnel,Harvest,214,0
+High Tunnel,Source Sheet,214,0
+High Tunnel,Grade 1 Marketable (weight),214,72
+High Tunnel,Grade 1 Marketable (counts),214,72
+High Tunnel,Grade 2 Marketable (weight),214,64
+High Tunnel,Grade 2 Marketable (counts),214,64
+High Tunnel,Unmarketables (weight),214,71
+High Tunnel,Unmarketables (counts),214,72
+High Tunnel,Total Marketable Weight,214,41
+High Tunnel,Total Marketable Count,214,41
+High Tunnel,Total Harvest Weight,214,36
+High Tunnel,Marketable Percentage,214,41
+High Tunnel,Average Marketable Weight Per Count,214,41
+Robinson,SN,83,0
+Robinson,Genotype_raw,83,0
+Robinson,Genotypes,83,0
+Robinson,Location,83,0
+Robinson,Date of harvest,83,0
+Robinson,Harvest,83,0
+Robinson,Source Sheet,83,0
+Robinson,Replicate,83,83
+Robinson,Grade 1 Marketable (weight),83,15
+Robinson,Grade 1 Marketable (counts),83,31
+Robinson,Unmarketables (weight),83,29
+Robinson,Unmarketables (counts),83,31
+Robinson,Weight of 20 marketable (g),83,66
+Robinson,Total Weight (g),83,53
+Robinson,Computed Total Weight (g),83,15
+Robinson,Total Harvest Weight,83,0
+Robinson,total_source,83,0
+Robinson,Total Marketable Weight,83,15
+Robinson,Total Marketable Count,83,31
+Robinson,Unmarketable Weight for Pct,83,15
+Robinson,Marketable Percentage,83,15
+Robinson,Total Count,83,31
+Robinson,Mean Weight Per Count,83,31
+Robinson,Mean Weight Per Marketable Count,83,50
+Robinson,Mean Fruit Weight From 20 (g),83,66
+South Farm,SN,303,0
+South Farm,Genotypes,303,0
+South Farm,Location,303,0
+South Farm,Date of harvest,303,0
+South Farm,Harvest,303,0
+South Farm,Experiment,303,18
+South Farm,Grade 1 Marketable (weight),303,118
+South Farm,Grade 1 Marketable (counts),303,140
+South Farm,Unmarketables (weight),303,118
+South Farm,Unmarketables (counts),303,120
+South Farm,Weight of 20 marketable (g),303,283
+South Farm,Genotype_raw,303,0
+South Farm,Replicate,303,213
+South Farm,Source Sheet,303,0
+South Farm,Weight of 20 fruit (g),303,209
+South Farm,Total Weight (g),303,185
+South Farm,Total Weight (kg),303,303
+South Farm,Note,303,251
+South Farm,Entered_by,303,185
+South Farm,Fruit count,303,301
+South Farm,Computed Component Weight (g),303,118
+South Farm,Total Harvest Weight (g),303,0
+South Farm,Total Weight Source,303,0
+South Farm,Marketable Weight (g),303,118
+South Farm,Marketable Percentage,303,120
+South Farm,Mean Fruit Weight From 20 (g),303,209
+South Farm,EN,303,18
+South Farm,Source / pedigree,303,18
+South Farm,Note_metadata,303,18
+South Farm,Plants per entry,303,18
+South Farm,Designed reps,303,18
+Princeton,Entry,830,0
+Princeton,Class,830,0
+Princeton,Type,830,10
+Princeton,Habit,830,10
+Princeton,Plants,830,10
+Princeton,Harvest,830,0
+Princeton,Date,830,0
+Princeton,Days after planting,830,0
+Princeton,Marketable fruit,830,154
+Princeton,Marketable lb,830,23
+Princeton,Cull fruit,830,153
+Princeton,Cull lb,830,20

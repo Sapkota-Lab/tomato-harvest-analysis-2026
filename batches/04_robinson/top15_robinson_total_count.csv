@@ -1,0 +1,16 @@
+rank_by_total_weight,rank_by_marketable_pct,rank_by_total_count,Genotypes,n_rows,n_with_weight,total_marketable_weight,total_marketable_count,total_unmarketable_weight,total_unmarketable_count,total_weight,total_count,marketable_percentage,mean_weight_per_count,mean_weight_of_20,mean_fruit_wt_from_20,fruit_size_g,fruit_size_source,EN,Growth habit,Fruit type,Color,Note,Source / pedigree,n_brix,mean_brix_robinson
+30,1.0,1.0,Mt. Magic,1,1,3139.0,96.0,,7.0,3368.0,103.0,93.20071258907363,32.699029126213595,,,32.699029126213595,total_wt_per_count,80.0,Determinate,large tomatoes,red,Hybrid evaluation,Mountain Magic,1.0,6.733101942518601
+28,12.0,2.0,UKYT-26-030,1,1,2812.0,45.0,609.0,4.0,3421.0,49.0,82.1981876644256,69.81632653061224,,,69.81632653061224,total_wt_per_count,39.0,Indeterminate,large tomatoes,red,Breeding Trial,84-3A (2024) ,1.0,7.471811326856596
+79,4.0,3.0,UKYT-26-006,1,1,598.0,41.0,85.0,7.0,683.0,48.0,87.55490483162518,14.229166666666666,,,14.229166666666666,total_wt_per_count,19.0,Indeterminate,globe fruit shape,,Breeding Trial,AVTO2036-CLN4123C,,
+3,,4.0,NC25217,1,1,,14.0,,11.0,6632.0,25.0,,265.28,,,265.28,total_wt_per_count,,,,,,,,
+33,42.0,5.0,UKYT-26-034,1,1,1545.0,12.0,1765.0,13.0,3310.0,25.0,46.676737160120844,132.4,,,132.4,total_wt_per_count,43.0,Indeterminate,large tomatoes,purple,Breeding Trial,221-BkW (2025) ,,
+7,,6.0,NC25202,1,1,,16.0,,8.0,5595.0,24.0,,233.125,,,233.125,total_wt_per_count,,,,,,,,
+68,51.0,7.0,UKYT-26-001,1,1,552.0,9.0,977.0,14.0,1529.0,23.0,36.10202746893395,66.47826086956522,,,66.47826086956522,total_wt_per_count,18.0,Semi determinate,medium fruit size with blocky shape,red,Breeding Trial,AVTO1906-CLN4066F,1.0,4.577995265328127
+2,40.0,8.0,NC264G,1,1,3678.0,12.0,,10.0,7153.0,22.0,51.41898504124144,325.1363636363636,,,325.1363636363636,total_wt_per_count,72.0,Indeterminate,large tomatoes,red,Hybrid evaluation,NC 264G,1.0,5.576567896592223
+15,53.0,9.0,NC255G,1,1,1471.0,7.0,,14.0,4340.0,21.0,33.89400921658986,206.66666666666666,,,206.66666666666666,total_wt_per_count,66.0,Indeterminate,large tomatoes,tangerine,Hybrid evaluation,NC 255G,1.0,6.568438024304328
+8,38.0,10.0,NC25218G,1,1,2876.0,9.0,,11.0,5542.0,20.0,51.89462287982678,277.1,,,277.1,total_wt_per_count,73.0,Determinate,large tomatoes,red,Hybrid evaluation,NC 25218G,1.0,5.327555247294185
+23,,11.0,NC24271G,1,1,,11.0,,8.0,3567.0,19.0,,187.73684210526315,,,187.73684210526315,total_wt_per_count,64.0,Indeterminate,large tomatoes,purple,Hybrid evaluation,NC 24271G,1.0,5.327555247294185
+11,39.0,12.0,NC25231,1,1,2412.0,10.0,2248.0,9.0,4660.0,19.0,51.75965665236052,245.26315789473685,,,245.26315789473685,total_wt_per_count,,,,,,,,
+21,,13.0,NC252G,1,1,,9.0,,10.0,3701.0,19.0,,194.78947368421052,,,194.78947368421052,total_wt_per_count,65.0,Indeterminate,large tomatoes,tangerine,Hybrid evaluation,NC 252G,1.0,5.078122832000076
+5,23.0,14.0,UKYT-26-012,1,1,4262.0,14.0,1872.0,5.0,6134.0,19.0,69.48157808933811,322.8421052631579,,,322.8421052631579,total_wt_per_count,21.0,Indeterminate,large tomatoes,pink,Breeding Trial,226-BKW (2024),1.0,4.828269791186017
+9,,15.0,NC25205G,1,1,,8.0,,10.0,4891.0,18.0,,271.72222222222223,,,271.72222222222223,total_wt_per_count,53.0,Indeterminate,large tomatoes,red,Hybrid evaluation,NC 25205G,1.0,4.828269791186017
