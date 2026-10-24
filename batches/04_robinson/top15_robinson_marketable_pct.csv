@@ -1,0 +1,16 @@
+rank_by_total_weight,rank_by_marketable_pct,rank_by_total_count,Genotypes,n_rows,n_with_weight,total_marketable_weight,total_marketable_count,total_unmarketable_weight,total_unmarketable_count,total_weight,total_count,marketable_percentage,mean_weight_per_count,mean_weight_of_20,mean_fruit_wt_from_20,fruit_size_g,fruit_size_source,EN,Growth habit,Fruit type,Color,Note,Source / pedigree,n_brix,mean_brix_robinson
+30,1.0,1.0,Mt. Magic,1,1,3139.0,96.0,,7.0,3368.0,103.0,93.20071258907363,32.699029126213595,,,32.699029126213595,total_wt_per_count,80.0,Determinate,large tomatoes,red,Hybrid evaluation,Mountain Magic,1.0,6.733101942518601
+75,2.0,,UKYT-25-005,1,1,890.0,,91.0,,981.0,,90.72375127420999,,386.0,19.3,19.3,weight_of_20,5.0,Indeterminate,grape tomato,,Breeding Trial,5E-206-1W(2022),1.0,6.8153647364820245
+71,3.0,,UKYT-25-003,1,1,1164.0,,156.0,,1320.0,,88.18181818181819,,258.0,12.9,12.9,weight_of_20,3.0,Indeterminate,grape tomato,,Breeding Trial,3E-203-1W(2022),1.0,7.389916182736783
+79,4.0,3.0,UKYT-26-006,1,1,598.0,41.0,85.0,7.0,683.0,48.0,87.55490483162518,14.229166666666666,,,14.229166666666666,total_wt_per_count,19.0,Indeterminate,globe fruit shape,,Breeding Trial,AVTO2036-CLN4123C,,
+17,5.0,,UKYT-25-002,1,1,3505.0,,531.0,,4036.0,,86.8434093161546,,456.0,22.8,22.8,weight_of_20,2.0,Indeterminate,grape tomato,,Breeding Trial,2E-202-1W(2022),1.0,7.143955554176159
+24,6.0,,UKYT-25-013,1,1,3033.0,,510.0,,3543.0,,85.60541913632514,,355.0,17.75,17.75,weight_of_20,13.0,Indeterminate,grape tomato,,Breeding Trial,13E-228-1W(2022),1.0,8.613547466579917
+27,7.0,,UKYT-25-015,1,1,2912.0,,553.0,,3465.0,,84.04040404040404,,396.0,19.8,19.8,weight_of_20,15.0,Indeterminate,grape tomato,,Breeding Trial,15E-232-2W(2022),1.0,8.043796355072118
+78,8.0,,UKYT-25-016,1,1,582.0,,114.0,,696.0,,83.62068965517241,,225.0,11.25,11.25,weight_of_20,16.0,Indeterminate,grape tomato,,Breeding Trial,16E-233-1W(2022),1.0,8.36964125925931
+22,9.0,,UKYT-25-014,1,1,3050.0,,618.0,,3668.0,,83.1515812431843,,385.0,19.25,19.25,weight_of_20,14.0,Indeterminate,grape tomato,,Breeding Trial,14E-230-1W(2022),1.0,6.8153647364820245
+59,10.0,,UKYT-25-006,1,1,1689.0,,344.0,,2033.0,,83.07919331037876,,387.0,19.35,19.35,weight_of_20,6.0,Indeterminate,grape tomato,,Breeding Trial,6E-208-1W(2022),2.0,7.798568606797517
+14,11.0,,UKYT-26-036,1,1,3605.0,,758.0,,4363.0,,82.62663305065323,,,,,,45.0,Determinate,large tomatoes,red,Breeding Trial,308-BkW (2025) ,1.0,6.0733373352961735
+28,12.0,2.0,UKYT-26-030,1,1,2812.0,45.0,609.0,4.0,3421.0,49.0,82.1981876644256,69.81632653061224,,,69.81632653061224,total_wt_per_count,39.0,Indeterminate,large tomatoes,red,Breeding Trial,84-3A (2024) ,1.0,7.471811326856596
+46,13.0,,UKYT-25-007,1,1,2127.0,,479.0,,2606.0,,81.61933998465081,,441.0,22.05,22.05,weight_of_20,7.0,Indeterminate,grape tomato,,Breeding Trial,7E-217-1W(2022),1.0,7.389916182736783
+29,14.0,,UKYT-25-004,1,1,2758.0,,656.0,,3414.0,,80.78500292911541,,446.0,22.3,22.3,weight_of_20,4.0,Indeterminate,grape tomato,,Breeding Trial,4E-205-1W(2022),1.0,7.79893409191402
+54,15.0,,UKYT-25-017,1,1,1790.0,,442.0,,2232.0,,80.19713261648745,,432.0,21.6,21.6,weight_of_20,17.0,Indeterminate,grape tomato,,Breeding Trial,17E-238-1W(2022),1.0,7.717222008694648
