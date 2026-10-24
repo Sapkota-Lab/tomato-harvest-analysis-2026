@@ -1,0 +1,3 @@
+SN,Genotype_raw,Genotypes,Replicate,Location,Date of harvest,Harvest,Reading 1,Reading 2,Reading 3,Average,Brix,TSS_class,Reading_range,Reading_sd,QC_flag,Reading_2_raw
+86,UKYT-25-013,UKYT-25-013,,Robinson,2026-08-12,first,1.028,1.04,1.035,1.034333333333333,8.613547466579917,≥8.0 very high TSS,0.012,0.0060277137733417,high_reading_range,1.04
+218,UKYT-26-024,UKYT-26-024,,South Farm,2026-08-18,second,1.025,1.035,1.032,1.0306666666666666,7.717222008694648,6.5–8.0 high TSS,0.01,0.0051316014394469,high_reading_range,1.035

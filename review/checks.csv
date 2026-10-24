@@ -1,0 +1,40 @@
+site,check,items_to_review,note
+High Tunnel,Missing entry ID,0,
+High Tunnel,Missing or invalid harvest date,0,
+High Tunnel,Exact duplicate master rows,0,Repeated entries alone are not assumed to be duplicates.
+High Tunnel,Repeated summary entry IDs,0,
+High Tunnel,Entry IDs missing from either table,0,
+High Tunnel,Negative Total Harvest Weight,0,
+High Tunnel,Master vs summary: total_weight,0,Missing measurements are kept distinct from zero.
+High Tunnel,Negative Total Marketable Weight,0,
+High Tunnel,Master vs summary: total_marketable_weight,0,Missing measurements are kept distinct from zero.
+High Tunnel,Measured harvest coverage,0,
+Robinson,Missing entry ID,0,
+Robinson,Missing or invalid harvest date,0,
+Robinson,Exact duplicate master rows,0,Repeated entries alone are not assumed to be duplicates.
+Robinson,Repeated summary entry IDs,0,
+Robinson,Entry IDs missing from either table,0,
+Robinson,Negative Total Harvest Weight,0,
+Robinson,Master vs summary: total_weight,0,Missing measurements are kept distinct from zero.
+Robinson,Negative Total Marketable Weight,0,
+Robinson,Master vs summary: total_marketable_weight,0,Missing measurements are kept distinct from zero.
+South Farm,Missing entry ID,0,
+South Farm,Missing or invalid harvest date,0,
+South Farm,Exact duplicate master rows,0,Repeated entries alone are not assumed to be duplicates.
+South Farm,Repeated summary entry IDs,0,
+South Farm,Entry IDs missing from either table,0,
+South Farm,Negative Total Harvest Weight (g),0,
+South Farm,Master vs summary: total_weight_g,0,Missing measurements are kept distinct from zero.
+South Farm,Negative Marketable Weight (g),0,
+South Farm,Master vs summary: total_marketable_weight_g,0,Missing measurements are kept distinct from zero.
+South Farm,Measured harvest coverage,0,
+Princeton,Missing entry ID,0,
+Princeton,Missing or invalid harvest date,0,
+Princeton,Exact duplicate master rows,0,Repeated entries alone are not assumed to be duplicates.
+Princeton,Repeated summary entry IDs,0,
+Princeton,Entry IDs missing from either table,0,
+Princeton,Negative Marketable lb,0,
+Princeton,Master vs summary: Marketable lb,0,Missing measurements are kept distinct from zero.
+Princeton,Negative Cull lb,0,
+Princeton,Master vs summary: Cull lb,0,Missing measurements are kept distinct from zero.
+Princeton,Measured harvest coverage,0,
